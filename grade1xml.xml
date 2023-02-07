@@ -1,0 +1,338 @@
+<DATA>
+
+	<ROW>
+		<gradeID>1</gradeID>
+		<kanji1>一</kanji1>
+		<kana1>イチ、イツ、ひと・つ</kana1>
+		<english1>one</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>2</gradeID>
+		<kanji1>二</kanji1>
+		<kana1>ニ、ジ、ふた・つ</kana1>
+		<english1>two</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>3</gradeID>
+		<kanji1>三</kanji1>
+		<kana1>サン、みっ・つ</kana1>
+		<english1>three</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>4</gradeID>
+		<kanji1>四</kanji1>
+		<kana1>シ、よっ・つ、よん</kana1>
+		<english1>four</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>5</gradeID>
+		<kanji1>五</kanji1>
+		<kana1>ゴ、いつ・つ</kana1>
+		<english1>five</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>6</gradeID>
+		<kanji1>六</kanji1>
+		<kana1>ロク、むっ・つ</kana1>
+		<english1>six</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>7</gradeID>
+		<kanji1>七</kanji1>
+		<kana1>シチ、なな・つ</kana1>
+		<english1>seven</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>8</gradeID>
+		<kanji1>八</kanji1>
+		<kana1>ハチ、やっ・つ</kana1>
+		<english1>eight</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>9</gradeID>
+		<kanji1>九</kanji1>
+		<kana1>ク、キュウ、ここの・つ</kana1>
+		<english1>nine</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>10</gradeID>
+		<kanji1>十</kanji1>
+		<kana1>ジュウ、とお</kana1>
+		<english1>ten</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>11</gradeID>
+		<kanji1>百</kanji1>
+		<kana1>ヒャク、もも</kana1>
+		<english1>hundred</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>12</gradeID>
+		<kanji1>千</kanji1>
+		<kana1>セン、ち</kana1>
+		<english1>thousand</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>13</gradeID>
+		<kanji1>上</kanji1>
+		<kana1>ジョウ、ショウ、うえ、あ・げる</kana1>
+		<english1>top,above,upper,lift-up</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>14</gradeID>
+		<kanji1>下</kanji1>
+		<kana1>カ、ゲ、した、もと</kana1>
+		<english1>below,under</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>15</gradeID>
+		<kanji1>左</kanji1>
+		<kana1>サ、ひだり</kana1>
+		<english1>left</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>16</gradeID>
+		<kanji1>右</kanji1>
+		<kana1>ウ、ユウ、みぎ</kana1>
+		<english1>right</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>17</gradeID>
+		<kanji1>中</kanji1>
+		<kana1>チュウ、なか、うち</kana1>
+		<english1>inside,middle,among</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>18</gradeID>
+		<kanji1>大</kanji1>
+		<kana1>ダイ、タイ、おお・きい</kana1>
+		<english1>big,large,great</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>19</gradeID>
+		<kanji1>小</kanji1>
+		<kana1>ショウ、ちい・さい、こお・</kana1>
+		<english1>small,little</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>20</gradeID>
+		<kanji1>月</kanji1>
+		<kana1>ガツ、ゲツ、つき</kana1>
+		<english1>month,moon</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>21</gradeID>
+		<kanji1>日</kanji1>
+		<kana1>ニチ、ジツ、ひ、・か</kana1>
+		<english1>day,sun</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>22</gradeID>
+		<kanji1>年</kanji1>
+		<kana1>ネン、とし</kana1>
+		<english1>year</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>23</gradeID>
+		<kanji1>早</kanji1>
+		<kana1>ソウ、サ、はや・い</kana1>
+		<english1>early,fast</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>24</gradeID>
+		<kanji1>木</kanji1>
+		<kana1>ボク、モク、き、こ・</kana1>
+		<english1>tree,wood</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>25</gradeID>
+		<kanji1>林</kanji1>
+		<kana1>リン、はやし</kana1>
+		<english1>woods,forest</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>26</gradeID>
+		<kanji1>山</kanji1>
+		<kana1>サン、やま</kana1>
+		<english1>mountain</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>27</gradeID>
+		<kanji1>川</kanji1>
+		<kana1>セン、かわ</kana1>
+		<english1>river</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>28</gradeID>
+		<kanji1>土</kanji1>
+		<kana1>ド、ト、つち</kana1>
+		<english1>soil,earth,dirt</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>29</gradeID>
+		<kanji1>空</kanji1>
+		<kana1>クウ、そら、あ・ける、から、から・っぽ、むな・しい、うつけ</kana1>
+		<english1>sky,empty,blank</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>30</gradeID>
+		<kanji1>田</kanji1>
+		<kana1>デン、た</kana1>
+		<english1>rice paddy</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>31</gradeID>
+		<kanji1>天</kanji1>
+		<kana1>テン、あめ、あま・、あまつ・</kana1>
+		<english1>heaven,sky,air,destiny,nature,fate</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>32</gradeID>
+		<kanji1>生</kanji1>
+		<kana1>セイ、ショウ、い・きる、う・む、は・やす</kana1>
+		<english1>life,birth,grow</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>33</gradeID>
+		<kanji1>花</kanji1>
+		<kana1>カ、ケ、はな</kana1>
+		<english1>flower,cherry blossoms</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>34</gradeID>
+		<kanji1>草</kanji1>
+		<kana1>ソウ、くさ</kana1>
+		<english1>grass, original,small plants</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>35</gradeID>
+		<kanji1>虫</kanji1>
+		<kana1>チュウ、むし</kana1>
+		<english1>insect,bug,worm,feeling</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>36</gradeID>
+		<kanji1>犬</kanji1>
+		<kana1>ご、いつ・つ</kana1>
+		<english1>dog</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>37</gradeID>
+		<kanji1>人</kanji1>
+		<kana1>ジン、ニン、ひと</kana1>
+		<english1>person</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>38</gradeID>
+		<kanji1>名</kanji1>
+		<kana1>メイ、ミョウ、な</kana1>
+		<english1>name,reputation,fame</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>39</gradeID>
+		<kanji1>女</kanji1>
+		<kana1>ジョ、ニョ、おんな、め・</kana1>
+		<english1>female,woman</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>40</gradeID>
+		<kanji1>男</kanji1>
+		<kana1>ダン、ナン、おとこ</kana1>
+		<english1>male,man</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>41</gradeID>
+		<kanji1>子</kanji1>
+		<kana1>シ、ス、こ</kana1>
+		<english1>child</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>42</gradeID>
+		<kanji1>目</kanji1>
+		<kana1>モク、ボク、め、ま</kana1>
+		<english1>eye</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>43</gradeID>
+		<kanji1>耳</kanji1>
+		<kana1>ジ、みみ</kana1>
+		<english1>ear,hearing</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>44</gradeID>
+		<kanji1>口</kanji1>
+		<kana1>コウ、ク、くち</kana1>
+		<english1>mouth</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>45</gradeID>
+		<kanji1>手</kanji1>
+		<kana1>シュ、て、た・</kana1>
+		<english1>hand,trouble,means</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>46</gradeID>
+		<kanji1>足</kanji1>
+		<kana1>ソク、あし、た・す、た・し</kana1>
+		<english1>foot,leg,add up,help</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>47</gradeID>
+		<kanji1>見</kanji1>
+		<kana1>ケン、み・る、み・える、み・せる、まみ・える</kana1>
+		<english1>see,visible,show</english1>
+	</ROW>
+
+	<ROW>
+		<gradeID>48</gradeID>
+		<kanji1>音</kanji1>
+		<kana1>オン、イン、おと、ね</kana1>
+		<english1>sound</english1>
+	</ROW>
+</DATA>
